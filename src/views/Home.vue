@@ -1,5 +1,7 @@
 <template>
-  <h1>Todolist in vuetify</h1>
+<div>
+  <h2>Hello vuetify</h2>
+</div>
 </template>
 
 <script>
